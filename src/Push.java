@@ -5,7 +5,8 @@ public class Push {
 		// TODO Auto-generated method stub
 
 	
-	System.out.println("!st code push to git");
+	System.out.println("1st code push to git");
+	System.out.println("Push 2");
 	
 	}
 
