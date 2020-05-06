@@ -6,8 +6,9 @@ public class Push {
 
 	
 	System.out.println("1st code push to git");
-	System.out.println("Push 2");
-	System.out.println("Push 3");
+	System.out.println("2nd code push to git");
+	System.out.println("3rd code push to git");
+	System.out.println("4rd code push to git");
 	}
 
 }
